@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Titanic Survival Prediction(Kaggle Competition)
 
 This code is a Python script for predicting the survival status of passengers aboard the Titanic using machine learning techniques. It utilizes the Random Forest Classifier algorithm to make predictions based on features such as passenger class and sex.
 
