@@ -34,4 +34,3 @@ This code is a Python script for predicting the survival status of passengers ab
 - A Random Forest Classifier model is trained on the training data.
 - Predictions are made on the testing data.
 - Results are saved to a CSV file named `submission.csv`.
-- A success message is displayed upon successful submission.
